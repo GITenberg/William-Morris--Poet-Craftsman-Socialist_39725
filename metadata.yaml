@@ -1,0 +1,31 @@
+_repo: William-Morris--Poet-Craftsman-Socialist_39725
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39725-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cary, Elisabeth Luther
+    alias: Cary, Elizabeth Luther
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '35567'
+    url: http://www.gutenberg.org/2009/agents/35567
+description: ''
+gutenberg_issued: '2012-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39725'
+  lccn: 02026058
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialists -- Great Britain -- Biography'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Morris, William, 1834-1896'
+- !lcsh 'Designers -- Great Britain -- Biography'
+title: 'William Morris: Poet, Craftsman, Socialist'
+url: http://www.gutenberg.org/ebooks/39725
