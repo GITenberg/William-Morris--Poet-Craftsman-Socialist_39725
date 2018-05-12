@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35567'
     url: http://www.gutenberg.org/2009/agents/35567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39725#William-Morris--Poet-Craftsman-Socialist
 gutenberg_issued: '2012-05-18'
 gutenberg_type: Text
 identifiers:
